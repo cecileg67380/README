@@ -1,3 +1,3 @@
-04 GIT
+LOCAL
 test my knowledge of git.
 what an interesting discovery.
